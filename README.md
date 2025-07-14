@@ -1,4 +1,3 @@
-<a href="playvirto.site">![virto](https://playvirto.site/assets/BH_favicon.png)</a>
 ![php](https://raw.githubusercontent.com/whatthexampp/whatthexampp/refs/heads/main/phppowred.png)
 ![passion](https://github.com/whatthexampp/whatthexampp/blob/main/deisgn.png?raw=true)
 

@@ -8,7 +8,7 @@ i enjoy reverse engineering sometimes, i also like some low level programming<br
 
 i know the following languages:<br>
 php (probably the language i know and use most, i still hate it with all my life)<br>
-sql (I LOVE SQL SQL IS THE LOVE OF MY LIFE (sometimes))
+sql (I LOVE SQL SQL IS THE LOVE OF MY LIFE (sometimes))<br>
 js (actually getting pretty good at it)<br>
 css (I HATE THIS WITH ALL MY LIFE)
 python (some machine learning)<br>
